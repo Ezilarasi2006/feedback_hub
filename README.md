@@ -2,6 +2,8 @@
 
 A simple web-based feedback management system that allows users to submit feedback and administrators to view and manage responses. The project is built using HTML, CSS, JavaScript, and Firebase for data storage.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Features
 - Submit feedback through an easy-to-use interface
 - Store feedback securely in Firebase
