@@ -54,3 +54,14 @@ Open `index.html` in your browser.
 - Email notifications
 - Export feedback reports
 
+  ##Screenshots:
+  <img width="497" height="245" alt="image" src="https://github.com/user-attachments/assets/da4704ab-9758-43f6-9884-4ea82861fb12" />
+   <br><br>
+  <img width="468" height="251" alt="image" src="https://github.com/user-attachments/assets/0988f3cd-410c-41a9-8350-494e877a8a3e" />
+   <br><br>
+   <img width="457" height="243" alt="image" src="https://github.com/user-attachments/assets/53e0357e-a34d-45d2-a80f-eb8e4e2cbba8" /><br><br>
+   <img width="476" height="251" alt="image" src="https://github.com/user-attachments/assets/fd768aba-ca9b-4268-8a75-c8258c7b964a" />
+
+
+  
+
